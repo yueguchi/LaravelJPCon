@@ -1,0 +1,5 @@
+
+.tabbar__button{color:#999!important
+}
+:checked+.tabbar__button{color:#f4645f!important
+}
